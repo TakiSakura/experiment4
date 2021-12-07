@@ -135,7 +135,7 @@ stu1.texesSalary = stu1.TaxDeduction(stu1.salary);
 ```
 
 ## 五、运行结果截图
-![截图](https://github.com/TakiSakura/Experiment2/blob/11d3f54f40b53fec1c7eb0f895502308c6052cb0/%E6%88%AA%E5%B1%8F2021-11-13%20%E4%B8%8B%E5%8D%883.52.24.png)
+![截图](https://github.com/TakiSakura/experiment4/blob/47e46e57ca22ea2d57205bea52423f58fade31bf/%E6%88%AA%E5%B1%8F2021-12-07%20%E4%B8%8B%E5%8D%882.00.15.png)
 ## 六、心得体会
 每次的实验上机，都能发现自己的不足，经过实践后，总结经验，能有很大的提升。我对列表使用更加熟练了，尝试在程序中添加static和final进行使用
 * 在上次实验中，我对列表有了初步地认识。在这次上机我尝试在列表中添加了更多的元素。发现可以用for循环去遍历列表。我意识到在处理许多相同类型的东西时，使用列表能节省大量时间。
